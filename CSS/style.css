@@ -1,0 +1,43 @@
+body{
+    font-family: 'Cabin', sans serif;
+}
+img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    border:2px solid;
+    color:white;
+}
+.wrapper{
+    background-color:orange;
+    width:700px;
+    margin:0 auto;
+    padding:20px;
+
+}
+.center{
+    text-align:center;
+}
+i{
+    padding:5px 10px;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+a:visited{
+    color:red;
+}
+.skills div{
+    width:48%;
+    display:inline-block;
+
+}
+h3{
+    background-color:white;
+    width:60%;
+    padding:2px 0 ;
+    text-align:center;
+    text-transform:uppercase;
+    margin:0 auto;
+}
